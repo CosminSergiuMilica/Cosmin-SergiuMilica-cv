@@ -1,4 +1,3 @@
-# Cosmin-Sergiu Milica
 **DevOps Engineer | Platform Engineer**
 
 📍 Bucharest, Romania  
